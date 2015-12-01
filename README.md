@@ -9,5 +9,5 @@ What you have to do first:
  - export WeChat chats in HTML format using the UFED Physical Analyzer software ("Export to HTML" option) 
 
 What the script does:
- - this script converts AUD audio files to WAV files so that they can be played
+ - this script converts AUD audio files to WAV files
  - it then modifies each HTML report by replacing the string ".aud" with ".wav"
