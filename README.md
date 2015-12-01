@@ -1,5 +1,7 @@
 # WeChat audio file converter + UFED Physical Analyzer HTML Report fix
 
+Blog post: http://forensenellanebbia.blogspot.it/2015/12/wechat-script-to-convert-and-play-aud.html
+
 Prerequisites:
  - tested on Python v2.7.8
  - libav for Microsoft Windows (Open source audio and video processing tools - https://www.libav.org/)
