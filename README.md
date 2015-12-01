@@ -1,6 +1,4 @@
 # WeChat audio file converter + UFED Physical Analyzer HTML Report fix
-Script based on this blog post:
-http://ppwwyyxx.com/2014/Classify-WeChat-Audio-Messages/
 
 Prerequisites:
  - tested on Python v2.7.8
