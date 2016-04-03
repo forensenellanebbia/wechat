@@ -5,7 +5,7 @@
 # Blog  : http://forensenellanebbia.blogspot.it
 #
 # WARNING: This program is provided "as-is"
-# See http://forensenellanebbia.blogspot.it/ for further details.
+# See http://forensenellanebbia.blogspot.it/2015/12/wechat-script-to-convert-and-play-aud.html for further details.
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -37,7 +37,7 @@
 #
 # What the script does:
 # - this script converts WeChat audio messages to WAV files
-# - it then modifies each HTML report by replacing the string ".aud/.amr" with ".wav"
+# - it then modifies each HTML report by replacing the strings ".aud" and ".amr" with ".wav"
 
 # Script based on these blog posts/scripts:
 # http://ppwwyyxx.com/2014/Classify-WeChat-Audio-Messages/
