@@ -19,6 +19,6 @@ What the script does:
 
  
 Script based on these blog posts/scripts:
-http://ppwwyyxx.com/2014/Classify-WeChat-Audio-Messages/
-http://www.giacomovacca.com/2013/06/voip-calls-encoded-with-silk-from-rtp.html
-https://github.com/netcharm/wechatvoice (https://github.com/netcharm/wechatvoice/blob/master/amr2ogg.py)
+- http://ppwwyyxx.com/2014/Classify-WeChat-Audio-Messages/
+- http://www.giacomovacca.com/2013/06/voip-calls-encoded-with-silk-from-rtp.html
+- https://github.com/netcharm/wechatvoice (https://github.com/netcharm/wechatvoice/blob/master/amr2ogg.py)
